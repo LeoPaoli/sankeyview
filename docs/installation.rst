@@ -40,3 +40,19 @@ To open Jupyter Notebook and begin to work on the Sankey. Write in the Anaconda 
 .. code-block:: shell
 
     $ jupyter notebook
+
+This will open a tab on your browser from which you can navigate to the folder where you want to create the sankey. To create a new notebook, click on the button called [new], on the right hand side, and select Notebooks: Python 3
+
+
+Install on macOS
+-----------------
+
+Sankeyview requries the latest version of Python to be installed. This can be done by installing the Anaconda platform from `Link here <https://www.anaconda.com/download/>`_ .
+
+[use the command line instead of Anaconda Prompt?]
+
+.. code-block:: shell
+
+    $ jupyter notebook
+
+This will open a tab on your browser from which you can navigate to the folder where you want to create the sankey. To create a new notebook, click on the button called [new], on the right hand side, and select Notebooks: Python 3
