@@ -1,0 +1,26 @@
+,source,target,value,Energy intensity,Enjoyment,Employment Job,Activity
+0,Activity,Employment Job,2.5,35,70,Student,Eating
+1,Activity,Employment Job,4.5,20,80,Student,Relaxing
+2,Activity,Employment Job,8.0,5,60,Student,Sleeping
+3,Activity,Employment Job,1.0,5,35,Student,Travelling
+4,Activity,Employment Job,8.0,30,30,Student,Working
+5,Activity,Employment Job,1.0,35,60,Trainee,Eating
+6,Activity,Employment Job,3.0,40,10,Trainee,Travelling
+7,Activity,Employment Job,2.0,40,50,Trainee,Relaxing
+8,Activity,Employment Job,6.0,5,60,Trainee,Sleeping
+9,Activity,Employment Job,12.0,45,10,Trainee,Working
+10,Activity,Employment Job,4.5,20,70,Administrator,Relaxing
+11,Activity,Employment Job,9.0,10,60,Administrator,Sleeping
+12,Activity,Employment Job,7.5,50,15,Administrator,Working
+13,Activity,Employment Job,1.5,35,60,Administrator,Eating
+14,Activity,Employment Job,1.5,50,10,Administrator,Travelling
+15,Activity,Employment Job,11.0,55,45,Manager,Working
+16,Activity,Employment Job,2.0,45,70,Manager,Eating
+17,Activity,Employment Job,7.5,10,60,Manager,Sleeping
+18,Activity,Employment Job,1.5,90,10,Manager,Travelling
+19,Activity,Employment Job,2.0,40,40,Manager,Relaxing
+20,Activity,Employment Job,3.0,35,70,Pensioner,Eating
+21,Activity,Employment Job,9.0,15,60,Pensioner,Relaxing
+22,Activity,Employment Job,9.0,15,60,Pensioner,Sleeping
+23,Activity,Employment Job,3.0,60,20,Pensioner,Travelling
+24,Activity,Employment Job,0.0,0,0,Pensioner,Working
